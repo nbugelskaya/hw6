@@ -1,4 +1,4 @@
-# hw6
+# hw6 (NGrams&AntConc)
 # Google NGrams
 ![alt text](https://github.com/nbugelskaya/hw6/blob/master/due_to_the.png)
 ![alt text](https://github.com/nbugelskaya/hw6/blob/master/nose.png)
