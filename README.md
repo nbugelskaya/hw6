@@ -2,7 +2,8 @@
 # Google NGrams
 ![alt text](https://github.com/nbugelskaya/hw6/blob/master/due_to_the.png)
 ![alt text](https://github.com/nbugelskaya/hw6/blob/master/nose.png)
-![alt text](https://github.com/nbugelskaya/hw6/blob/master/US_GB.png)
+Для британского англиского было характерно слово "airplane", а для американского английсокго - "aeroplane".
+![alt text](https://github.com/nbugelskaya/hw6/blob/master/US-GB.png)
 # AntConc
 #### Л.Н. Толстой "Анна Каренина" 1877 г.
 ![alt text](https://github.com/nbugelskaya/hw6/blob/master/частые_слова.png)
